@@ -11,10 +11,10 @@ Enjoy it.
 
 ## Installation
 
-1. Download the <kbd>.xml</kbd> file.
+1. Download the **<kbd>.xml</kbd>** file.
 
 2. Go to **_blender > Edit > Preferences_**
 
 3. Inside the tab **_themes_** click on the install button
 
-4. Locate and select the <kbd>.xml</kbd> file.
+4. Locate and select the **<kbd>.xml</kbd>** file.
