@@ -1,6 +1,6 @@
 # FE-BLUEZ Theme for blender 2.8 and above
 
-This is Fe-Bluez. A new blue concept styled theme for blender. This theme is currently in progress and I can't tell when I will post the updates. There are a few UI itens that are still in default style.
+This is Fe-Bluez. A new blue concept styled theme for blender. This theme is currently in progress and I can't tell when I will post the updates. There are a few UI items that are still in the default style.
 
 Enjoy it.
 
